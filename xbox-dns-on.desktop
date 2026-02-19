@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Xbox DNS ON
+Comment=Set DNS to 176.99.11.77 & 80.78.247.254
+Exec=/home/dom/dns_manager.sh on
+Icon=network-transmit-receive-symbolic
+Terminal=false
+Type=Application
+Categories=Network;Utility;
